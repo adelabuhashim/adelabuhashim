@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<h1 align="center">Hi 👋, I'm Adel Abu Hashim</h1>
+<h3 align="center">Data Scientist and Analyst</h3>
+
+[![Adel's GitHub stats](https://github-readme-stats.vercel.app/api?username=adelabuhashim)]
 <!--
 **adelabuhashim/adelabuhashim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
